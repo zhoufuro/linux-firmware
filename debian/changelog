@@ -1,3 +1,10 @@
+linux-firmware (1.205ok2) yangtze; urgency=medium
+
+  * fix file conflict with amd64-microcode
+  * build for openKylin
+
+ -- Xie Wei <xiewei@kylinos.cn>  Thu, 21 Jul 2022 14:35:45 +0800
+
 linux-firmware (1.205kylin1) v101; urgency=medium
 
   * linux-firmware: Update firmware to commit 681281e49fb6778831370e5d94e6e1d97f0752d6
