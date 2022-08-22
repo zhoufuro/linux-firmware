@@ -1,3 +1,9 @@
+linux-firmware (1.205ok3) yangtze; urgency=medium
+
+  * Update firmware file for Intel Multimedia audio 51c8.
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Mon, 22 Aug 2022 10:04:44 +0800
+
 linux-firmware (1.205ok2) yangtze; urgency=medium
 
   * fix file conflict with amd64-microcode
