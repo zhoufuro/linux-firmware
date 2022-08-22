@@ -176,6 +176,7 @@ File: intel/sof/v1.6/sof-cht-v1.6.ri
 File: intel/sof/v1.6/sof-cnl-v1.6.ldc
 File: intel/sof/v1.6/sof-ehl-v1.6.ldc
 File: intel/sof/v1.6/sof-icl-v1.6.ldc
+File: intel/sof/v2.1.1/intel-signed/sof-adl.ri
 Link: intel/sof/v1.6/sof-jsl-v1.6.ldc -> sof-icl-v1.6.ldc
 Link: intel/sof/v1.6/sof-tgl-v1.6.ldc -> sof-ehl-v1.6.ldc
 Link: intel/sof/sof-apl.ri -> v1.6/intel-signed/sof-apl-v1.6.ri
@@ -196,6 +197,7 @@ Link: intel/sof/sof-skl.ri -> v1.4.2/sof-skl.ri
 Link: intel/sof/sof-sue.ri -> v1.4.2/sof-sue.ri
 Link: intel/sof/sof-tgl.ri -> v1.6/intel-signed/sof-tgl-v1.6.ri
 Link: intel/sof/sof-tgl-h.ri -> v1.6.1/intel-signed/sof-tgl-h-v1.6.1.ri
+Link: intel/sof/sof-adl.ri -> v2.1.1/intel-signed/sof-adl.ri
 
 File: intel/sof-tplg/sof-apl-asrc-pcm512x.tplg
 File: intel/sof-tplg/sof-apl-asrc-wm8804.tplg
