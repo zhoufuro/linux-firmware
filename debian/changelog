@@ -1,6 +1,7 @@
-linux-firmware (1.205ok4) yangtze; urgency=medium
+linux-firmware (1.205ok5) yangtze; urgency=medium
 
   * Update info 
+  * update copy-firmware for WHENCE.ubuntu.
 
  -- Lu zhiping <luzhiping@kylinos.cn>  Mon, 22 Aug 2022 19:25:28 +0800
 
