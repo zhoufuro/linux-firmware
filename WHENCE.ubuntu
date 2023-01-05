@@ -329,6 +329,7 @@ Link: intel/sof-tplg/sof-tgl-rt711-rt1316-rt714.tplg -> sof-cml-rt711-rt1308-rt7
 File: intel/sof-tplg/sof-tgl-rt715-rt711-rt1308-mono.tplg
 File: intel/sof-tplg/sof-tgl-sdw-max98373-rt5682-2ch.tplg
 File: intel/sof-tplg/sof-tgl-sdw-max98373-rt5682-4ch.tplg
+File: intel/sof-tplg/sof-tgl-es8336.tplg
 File: intel/sof-tplg/sof-whl-demux-rt5682.tplg
 File: intel/sof-tplg/sof-whl-rt5682-kwd.tplg
 File: intel/sof-tplg/sof-whl-rt5682.tplg
