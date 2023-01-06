@@ -1,3 +1,12 @@
+linux-firmware (1.205ok6) yangtze; urgency=medium
+
+  * close #I64LD9:
+    - add intel/sof-tplg and intel/sof directory.
+    - sof: Update sof-jsl.ri to v2.2.2.
+    - Add sof-tgl-es8336.tplg v2.0.
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Fri, 06 Jan 2023 14:25:09 +0800
+
 linux-firmware (1.205ok5) yangtze; urgency=medium
 
   * Update info 
