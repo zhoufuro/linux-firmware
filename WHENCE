@@ -6030,3 +6030,13 @@ File: amphion/vpu/vpu_fw_imx8_enc.bin
 Version: 1.3.1
 
 Licence: Redistributable. See LICENSE.amphion_vpu for details
+
+---------------------------------------------------------------------------
+
+Driver: powervr - Imagination Technologies PowerVR graphics driver
+
+File: powervr/rogue_4.40.2.51_v1.fw
+File: powervr/rogue_33.15.11.3_v1.fw
+Version: 1.0.OS@6476056
+
+License: Redistributable. See LICENSE.powervr for details
