@@ -5127,7 +5127,7 @@ File: i915/tgl_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Tigerlake
 
 File: i915/tgl_guc_70.bin
-Version: GuC API/APB ver 70.5.1 for Tigerlake
+Version: GuC API/APB ver 70.13.1 for Tigerlake
 
 File: i915/tgl_huc_7.0.3.bin
 Version: Huc API/APB ver 7 release 0 for Tigerlake
@@ -5196,7 +5196,7 @@ File: i915/adlp_dmc_ver2_16.bin
 Version: DMC API/APB ver 2 release 16 for Alderlake P
 
 File: i915/adlp_dmc.bin
-Version: DMC API/APB ver 2 release 19 for Alderlake P
+Version: DMC API/APB ver 2 release 20 for Alderlake P
 
 File: i915/adlp_guc_62.0.3.bin
 Version: GuC API/APB ver 62.0.3 for Alderlake P
@@ -5208,7 +5208,7 @@ File: i915/adlp_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Alderlake P
 
 File: i915/adlp_guc_70.bin
-Version: GuC API/APB ver 70.5.1 for Alderlake P
+Version: GuC API/APB ver 70.13.1 for Alderlake P
 
 File: i915/dg2_guc_70.1.2.bin
 Version: GuC API/APB ver 70.1.2 for DG2
@@ -5217,7 +5217,7 @@ File: i915/dg2_guc_70.4.1.bin
 Version: GuC API/APB ver 70.4.1 for DG2
 
 File: i915/dg2_guc_70.bin
-Version: GuC API/APB ver 70.8.0 for DG2
+Version: GuC API/APB ver 70.13.1 for DG2
 
 File: i915/dg2_huc_gsc.bin
 Version: HuC API/APB ver 7.10.3 for DG2
@@ -5228,11 +5228,23 @@ Version: DMC API/APB ver 2 release 6 for DG2
 File: i915/dg2_dmc_ver2_07.bin
 Version: DMC API/APB ver 2 release 7 for DG2
 
+File: i915/dg2_dmc_ver2_08.bin
+Version: DMC API/APB ver 2 release 8 for DG2
+
 File: i915/mtl_dmc_ver2_10.bin
 Version: DMC API/APB ver 2 release 10 for Meteorlake
 
-File: i915/dg2_dmc_ver2_08.bin
-Version: DMC API/APB ver 2 release 8 for DG2
+File: i915/mtl_dmc.bin
+Version: DMC API/APB ver 2 release 19 for Meteorlake
+
+File: i915/mtl_guc_70.bin
+Version: GuC API/APB ver 70.13.1 for Meteorlake
+
+File: i915/mtl_huc_gsc.bin
+Version: HuC API/APB ver 8.5.4 for Meteorlake
+
+File: i915/mtl_gsc_1.bin
+Version: GSC API/APB v1.0, release 102.0.0.1655, SVN 1 for Meteorlake
 
 License: Redistributable. See LICENSE.i915 for details
 --------------------------------------------------------------------------
